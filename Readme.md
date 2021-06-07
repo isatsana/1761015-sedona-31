@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Анастасия](https://up.htmlacademy.ru/htmlcss/31/user/1761015).
-* Наставник: `Оксана Вайнруб`https://htmlacademy.ru/profile/id166797
+* Студент: [Анастасия](https://up.htmlacademy.ru/htmlcss/31/user/1761015
+* Наставник: `Оксана Вайнруб https://htmlacademy.ru/profile/id166797
 
 ---
 
