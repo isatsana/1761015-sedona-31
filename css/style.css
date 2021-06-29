@@ -1,0 +1,176 @@
+* Variables */
+
+:root {
+}
+
+
+
+body {
+margin: 0;
+padding: 0;
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 21px;
+color: #000000;
+text-transform: uppercase;
+background-color:red;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.main-nav {
+  font-size: 14px;
+  line-height: 26px;
+  color:
+  background-color:
+}
+
+
+
+.site-nav {
+  list-style: none;
+}
+
+.site-navigation-current a:not([href]) {
+  background-color:
+}
+
+.features-list {
+  list-style: none;
+}
+
+.feature-item {
+  text-align: center;
+}
+
+.feature-item h2{
+  font-size: 21px;
+  line-height: 21px;
+}
+
+button {
+  font: inherit;
+  text-align: center;
+  color:
+  vertical-align: middle;
+  text-transform: uppercase;
+  background-color:
+  border: none;
+}
+
+.button:hover,
+.button:focus,
+.button:active {
+  background-color:
+}
+
+.button.disabled,
+.button:disabled {
+  cursor: default;
+  opacity: 0.5;
+  background-color:
+}
+
+.appointment-item input {
+  font: inherit;
+  background-color: transparent;
+  border:
+}
+
+.appointment-item input:focus {
+  border-color:
+}
+
+.main-footer {
+  color:
+  background-color:
+  background-image: url("img/gr.png");
+  background-position: 0 0;
+  background-repeat: repeat;
+}
+
+.footer-contacts a {
+  color:
+  text-decoration: underline;
+}
+
+.footer-contacts a:hover,
+.footer-contacts a:focus {
+  text-decoration: none;
+}
+
+.footer-social {
+  text-align: center;
+}
+
+.footer-social ul {
+  list-style: none;
+}
+
+.footer-social h2 {
+  font-size: 14px;
+
+}
+
+.social-button {
+  color: inherit;
+}
+
+.social-button:hover,
+.social-button:focus {
+  background-color:
+}
+
+.footer-copyright .button:hover,
+.footer-copyright .button:focus {
+  color:
+  background-color:
+}
+
+.modal {
+  color: var
+  background-color: ;
+  background-image: url("img/map.jpg")
+  background-position: 0 0;
+  background-repeat: repeat;
+  box-shadow:
+}
+
+.modal-login h3 {
+  font-size: 14px;
+  line-height: 26px;
+}
+
+.login-form input[type="text"],
+.login-form input[type="data"] {
+  font: inherit;
+  color: var
+  text-transform: uppercase;
+  background-color: var
+  border: 2px solid var
+}
+
+.login-form input:focus {
+  border-color: var
+}
+
+.login-icon-user {
+  background-image:
+  background-position: 270px center;
+  background-repeat: no-repeat;
+}
+
+.login-icon-password {
+  background-image:
+  background-position: 270px center;
+  background-repeat: no-repeat;
+}
